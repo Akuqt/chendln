@@ -1,0 +1,27 @@
+{
+  "name": "chendln",
+  "version": "1.0.1",
+  "description": "Basic end line changer (lf <-> crlf).",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Akuqt",
+  "license": "MIT",
+  "keywords": [
+    "CRLF",
+    "LF",
+    "end",
+    "line",
+    "CLI"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akuqt/chendln.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akuqt/chendln/issues"
+  },
+  "homepage": "https://github.com/Akuqt/chendln#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
